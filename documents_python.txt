@@ -1,0 +1,7 @@
+a. The environment my python file is supposed to smoothly work in is Windows.
+
+b. To run my python program, the command is "python Q3.py". Buttons are intuitive by their names.
+
+
+
+
